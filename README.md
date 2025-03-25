@@ -1,7 +1,7 @@
 # Roblox Cookie Checker
 
 ## Özellikler
-- Çoklu cookie kontrolü (paralel işleme ile)
+- Çoklu cookie kontrolü (paralel)
 - Detaylı hesap bilgisi toplama:
   - Robux miktarı
   - Premium üyelik durumu
